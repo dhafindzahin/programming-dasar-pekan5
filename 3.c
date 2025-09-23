@@ -1,3 +1,13 @@
+/*
+ * Nama  : [Muh. Dhafin Dzahin]
+ * NIM   : [4124600026]
+ * Kelas : [Meka 2A]
+ * Praktik: 5 – Decision 2
+ * Tugas : [4]
+ * Deskripsi singkat: Menentukan nilai dengan input int
+ * Tanggal: [16 September 2025]
+ */
+
 #include <stdio.h>
 
 int main() {
