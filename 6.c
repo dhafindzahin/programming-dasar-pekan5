@@ -36,7 +36,7 @@ int main()
 	case 3:
 		printf("Masukkan radius & tinggi: ");
 		scanf("%d %d", &r, &t);
-		printf("Volume silinder: %d", 3, 14 * r * r * t);
+		printf("Volume silinder: %d", 3.14 * r * r * t);
 		break;
 	default:
 		printf("Menu tidak temukan.");

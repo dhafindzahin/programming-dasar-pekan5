@@ -15,7 +15,7 @@ int main()
 	char letter;
 	int sum, valid_flag;
 	printf("Masukkan letter: ");
-	scanf("%s", &letter);
+	scanf("%c", &letter);
 
 	switch (letter)
 	{

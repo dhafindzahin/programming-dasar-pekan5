@@ -28,7 +28,7 @@ int main() {
 	else if (nilai < 80) {
 		printf("Nilai anda adalah B");
 	}
-	else if (nilai < 100) {
+	else if (nilai <= 100) {
 		printf("Nilai anda adalah A");
 	}
 }
